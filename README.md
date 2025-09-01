@@ -1,3 +1,4 @@
+[![PyPI version](https://img.shields.io/pypi/v/mizuio.svg)](https://pypi.org/project/mizuio/)
 
 # mizuio - Python Data Processing Toolkit
 
