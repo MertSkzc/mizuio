@@ -1,7 +1,9 @@
 name: Publish to PyPI
 
 on:
-  workflow_dispatch: # Manuel tetikleme için
+  push:
+    tags:
+      - 'v*.*.*'
 
 jobs:
   build-and-publish:
