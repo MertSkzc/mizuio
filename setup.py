@@ -20,7 +20,7 @@ def read_requirements():
 
 setup(
     name="mizuio",
-    version="0.1.0",
+    version="0.1.1",
     author="Mert Sakızcı",
     author_email="mertskzc@gmail.com",
     description="A comprehensive Python data processing tool for cleaning, visualization, and analysis",
