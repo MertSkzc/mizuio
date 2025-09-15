@@ -68,7 +68,7 @@ docs = [
 ]
 
 [project.scripts]
-mizuio = "mizu.cli:main"
+mizuio = "mizuio.cli:main"
 
 [project.urls]
 Homepage = "https://github.com/mertskzc/mizuio"
@@ -76,10 +76,10 @@ Repository = "https://github.com/mertskzc/mizuio"
 "Bug Tracker" = "https://github.com/mertskzc/mizuio/issues"
 
 [tool.setuptools]
-packages = ["mizu"]
+packages = ["mizuio"]
 
 [tool.setuptools_scm]
-write_to = "mizu/_version.py"
+write_to = "mizuio/_version.py"
 
 [tool.black]
 line-length = 88
@@ -142,7 +142,7 @@ markers = [
 ]
 
 [tool.coverage.run]
-source = ["mizu"]
+source = ["mizuio"]
 omit = [
     "*/tests/*",
     "*/test_*",

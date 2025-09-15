@@ -64,7 +64,7 @@ setup(
     },
     entry_points={
         "console_scripts": [
-            "mizu=mizu.cli:main",
+             "mizuio=mizuio.cli:main",
         ],
     },
     include_package_data=True,
