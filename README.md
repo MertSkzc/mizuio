@@ -1,5 +1,5 @@
 [![PyPI version](https://img.shields.io/pypi/v/mizuio.svg)](https://pypi.org/project/mizuio/)
-
+![Downloads](https://pepy.tech/badge/mizuio)
 # mizuio - Python Data Processing Toolkit
 
 mizuio is a comprehensive Python toolkit for data cleaning, visualization, and analysis. It provides a modern command-line interface and Python API for efficient data workflows, leveraging Pandas, NumPy, Matplotlib, Seaborn, and scikit-learn.
